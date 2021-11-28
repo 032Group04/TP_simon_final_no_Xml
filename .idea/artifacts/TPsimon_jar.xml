@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TPsimon:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TPsimon_jar</output-path>
+    <root id="archive" name="TPsimon.jar">
+      <element id="module-output" name="TP simon final no_Xml" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/forms_rt.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
